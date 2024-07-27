@@ -1,4 +1,4 @@
-This is a React version of the vanilla JS Expense Tracker. It uses functional components with hooks and the context API
+This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/expense-tracker-react?tab=readme-ov-file). It uses functional components with hooks and the context API
 
 # Getting Started with Create React App
 
