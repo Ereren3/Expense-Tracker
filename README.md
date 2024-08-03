@@ -1,3 +1,5 @@
+This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/expense-tracker-react?tab=readme-ov-file). It uses functional components with hooks and the context API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
